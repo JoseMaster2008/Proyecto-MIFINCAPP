@@ -1,4 +1,4 @@
-# FINDING ANIMALS<!--# sirve para colocar un titulo-->
+# SNAP PET<!--# sirve para colocar un titulo-->
 El objetivo central de la página es desarrollar un prototipo para evaluar la efectividad del uso de un aplicativo como solución a la problemática de mascotas perdidas. <!--Descripcion corta del repositorio-->
 
 ## Autor
