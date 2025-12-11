@@ -3,7 +3,7 @@ El objetivo central de la página es desarrollar un prototipo para evaluar la ef
 
 ## Autor
 <!--Autores del proyecto-->
-    - José Manuel Acuña Carmona
+    - Jose Manuel Acuña Carmona
     - Edixon Prieto
     - Carlos Steven Parra Martinez
     - John Alexander Espinosa Estrada
