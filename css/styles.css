@@ -1,11 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 *{
     margin: 0;
     padding: 0;
+    text-decoration: none;
+    list-style: none;
     box-sizing: border-box;
 }
-
 body{
     font-family: 'Comic Sans MS';
     background-color: #f4f4f4;
+}
+
+/*Inicia el css para header, nav, ul,*/
+a, li{
+    font-family: 'Montserrat', sans-serif;
     color: #333;
 }
+.logo-header img{
+    width: 80px;
+}
+header{
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5rem 2rem;
+}
+.title-header h1{
+    display: flex; /*Permite controlar la posición del elemento más fácilmente*/
+    text-align: center;
+    font-size: 2rem;
+}
+.nav-menu ul{
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+.nav-menu li{
+    margin-right: 1.5rem;
+}
+.nav-menu a:hover{
+    color: rgb(148, 176, 202);
+}
+.nav-menu li:last-child{
+    background-color: blanchedalmond;
+    border: 3px solid blanchedalmond;
+    padding: .25rem .75rem;
+    border-radius: .2rem;
+}
+.nav-menu li:last-child:hover{
+    background: transparent;
+    border: 3px solid blanchedalmond
+}
+/*Termina el css para header, nav, ul,*/
