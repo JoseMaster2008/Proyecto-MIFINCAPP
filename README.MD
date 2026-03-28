@@ -1,11 +1,10 @@
-# SNAP PET<!--# sirve para colocar un titulo-->
-El objetivo central de la página es desarrollar un prototipo para evaluar la efectividad del uso de un aplicativo como solución a la problemática de mascotas perdidas. <!--Descripcion corta del repositorio-->
+# MIFINCAPP: Todo tu trabajo en un solo lugar
+El objetivo central de la página es desarrollar un prototipo para evaluar la efectividad del uso de un aplicativo como solución a la problemática en gestión de predios de producción pecuaria
 
 ## Autor
 <!--Autores del proyecto-->
     - Jose Manuel Acuña Carmona
     - Edixon Prieto
-    - Carlos Steven Parra Martinez
     - John Alexander Espinosa Estrada
     - Juan Andrés Fandiño Forero
     - Brayan Daniel Corobo Urueña
@@ -13,6 +12,7 @@ El objetivo central de la página es desarrollar un prototipo para evaluar la ef
 ## Contenido del repositorio <!--Subtitulo del README-->
 - index.html
 - style.css
+-database.sql
 
 ## ¿Cómo ejecturar el proyecto?
 1. Clonar el repositorio <!---->
